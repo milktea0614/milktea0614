@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20Anonymous!!&fontSize=20&fontAlignY=20)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilktea0614&count_bg=%23626262&title_bg=%239570E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)            
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=milktea0614&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milktea0614&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **milktea0614/milktea0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
